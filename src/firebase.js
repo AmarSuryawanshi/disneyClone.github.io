@@ -6,8 +6,8 @@ const firebaseConfig = {
   projectId: "disneyplus-clone-a5881",
   storageBucket: "disneyplus-clone-a5881.appspot.com",
   messagingSenderId: "947239183532",
-  appId: "1:947239183532:web:5f1edac442c9e9d135ab09",
-  measurementId: "G-YEYVG859DC",
+  appId: "1:947239183532:web:f21814c4039b302a35ab09",
+  measurementId: "G-S5E85YTKVV",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);

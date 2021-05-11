@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "disneyplus-clone-a5881",
     "public": "build",
     "ignore": [
       "firebase.json",
