@@ -15,6 +15,6 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DISNEYPLUS_CLONE_A5881 }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DISNEY_PLUS_CLONE_9EEC5 }}'
           channelId: live
-          projectId: disneyplus-clone-a5881
+          projectId: disney-plus-clone-9eec5

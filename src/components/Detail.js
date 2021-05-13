@@ -79,6 +79,7 @@ const Background = styled.div`
   img {
     width: 100vw;
     height: 100vh;
+    background-position: center;
 
     @media (max-width: 768px) {
       width: initial;
